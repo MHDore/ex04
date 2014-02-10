@@ -2,6 +2,10 @@ ex04
 ====
 
 
-This is exercise 04 from SIO-2109, prepared for Dzenan R. 
+ 
+
+SIO-2109
+
+Marie-Hélène Doré 
 
 
